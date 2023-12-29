@@ -1,0 +1,20 @@
+thead {
+  color: red;
+}
+h1 {
+  color: white;
+  font-style: italic;
+  font-size: 65px;
+  /* cỡ chữ: dùng px */
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+  text-align: center;
+  background-image: url(/picture/black.jpg);
+}
+body {
+  background-image: url(/picture/white1.jpg);
+}
+
+table {
+  font-size: 26px;
+}
